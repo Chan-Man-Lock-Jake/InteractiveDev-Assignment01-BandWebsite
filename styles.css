@@ -3,6 +3,13 @@
     padding: 0;
 }
 
+.logo {
+    width: 120px;
+    cursor: pointer;
+}
+
+/*Navigation Bar*/
+
 .navbar{
     width: 95%;
     margin: auto;
@@ -10,11 +17,6 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-
-.logo {
-    width: 120px;
-    cursor: pointer;
 }
 
 .navbar ul li {
@@ -43,4 +45,36 @@
 
 .navbar ul li:hover::after{
     width: 100%;
+}
+
+/*Footer*/
+
+.pagefoot {
+    background: grey;
+    width: auto;
+    margin: auto;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pagefoot ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.pagefoot ul li a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+.pagefoot-bottom ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
 }
