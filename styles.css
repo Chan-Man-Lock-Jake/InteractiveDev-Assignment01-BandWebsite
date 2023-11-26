@@ -51,7 +51,6 @@
 /*Homepage, top*/
 
 .pagehome {
-    font-size: xx-large;
     display: flex;
     width: auto;
     height: 100vh;
@@ -64,7 +63,7 @@
 .pagenewsmedia {
     display: flex;
     margin: 0 100px;
-    padding-bottom: 20px;
+    padding-bottom: 100px;
 }
 
 .pagenewsmedia h2 {
@@ -117,7 +116,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
 }
 
 .pagesongs h2 {
@@ -138,7 +137,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding-bottom: 50px;
+    padding-bottom: 300px;
 }
 
 .pagegoods h2 {
@@ -148,9 +147,20 @@
     justify-content: center;
 }
 
+.pagegoods ul {
+    display: flex;
+    justify-content: center;
+}
+
 .pagegoods ul li {
     list-style: none;
-    display: inline-block;
+    padding: 2px;
+    width: 24%;
+}
+
+.pagegoods ul li a img {
+    display: flex;
+    width: 100%;
 }
 
 /*Footer*/
