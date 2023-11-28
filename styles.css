@@ -82,6 +82,9 @@
     width: 100%;
 }
 
+/*index.html*/
+/*===========================================================================================*/
+
 /*Homepage, top*/
 
 .pagehome {
@@ -96,25 +99,6 @@
     padding: 0 5%;
     font-size: 500%;
 }
-
-/* .profile-button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 150px;
-}
-
-.profile-button button {
-    padding: 10px 40px;
-    border: 2px solid black;
-    margin: 50px;
-    font-size: 200%;
-}
-
-.profile-button button:hover {
-    background-color: black;
-    color: white;
-} */
 
 /*News and Media section*/
 
@@ -291,3 +275,6 @@
     margin: 0 20px;
     position: relative;
 }
+
+/*profile.html*/
+/*===========================================================================================*/
