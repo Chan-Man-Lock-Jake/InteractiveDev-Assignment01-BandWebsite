@@ -1,6 +1,26 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: "Sofia Sans Semi Condensed";
+}
+
+.generic-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 150px;
+}
+
+.generic-button button {
+    padding: 10px 40px;
+    border: 2px solid black;
+    margin: 50px;
+    font-size: 200%;
+}
+
+.generic-button button:hover {
+    background-color: black;
+    color: white;
 }
 
 .logo-navbar {
@@ -17,6 +37,7 @@
     font-family: "Zeyada";
     font-size: 95%;
     padding: 105%;
+    height: 13%;
 }
 
 /*Navigation Bar*/
@@ -42,6 +63,7 @@
     text-decoration: none;
     color: grey;
     text-transform: uppercase;
+    font-weight: 600;
 }
 
 .navbar ul li::after{
@@ -74,10 +96,11 @@
     font-size: 500%;
 }
 
-.profile-button {
+/* .profile-button {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 150px;
 }
 
 .profile-button button {
@@ -90,7 +113,7 @@
 .profile-button button:hover {
     background-color: black;
     color: white;
-}
+} */
 
 /*New and Media section*/
 
@@ -240,7 +263,7 @@
 .pagegoods ul li {
     list-style: none;
     padding: 2px;
-    width: 24%;
+    width: 33%;
 }
 
 .pagegoods ul li a img {
