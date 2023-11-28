@@ -3,9 +3,20 @@
     padding: 0;
 }
 
-.logo {
-    width: 120px;
+.logo-navbar {
+    width: 50%;
     cursor: pointer;
+}
+
+.logo {
+    width: 95%;
+    cursor: pointer;
+}
+
+.logo-title {
+    font-family: "Zeyada";
+    font-size: 95%;
+    padding: 105%;
 }
 
 /*Navigation Bar*/
@@ -13,8 +24,8 @@
 .navbar{
     display: flex;
     margin: auto;
-    width: 95%;
-    padding: 15px 0;
+    width: 99%;
+    padding: 15px;
     align-items: center;
     justify-content: space-between;
     position: fixed;
@@ -58,11 +69,34 @@
     justify-content: center;    
 } 
 
+.pagehome a {
+    padding: 0 5%;
+    font-size: 500%;
+}
+
+.profile-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-button button {
+    padding: 10px 40px;
+    border: 2px solid black;
+    margin: 50px;
+    font-size: 200%;
+}
+
+.profile-button button:hover {
+    background-color: black;
+    color: white;
+}
+
 /*New and Media section*/
 
 .pagenewsmedia {
     display: flex;
-    margin: 0 100px;
+    margin: 0 150px;
     padding-bottom: 100px;
 }
 
@@ -112,11 +146,12 @@
 
 /*Songs section*/
 
-.pagesongs {
+/* .pagesongs {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding-bottom: 100px;
+    padding-bottom: 100px;  
+    margin: 150px;
 }
 
 .pagesongs h2 {
@@ -126,9 +161,58 @@
     justify-content: center;
 }
 
+.pagesongs ul li{
+    list-style: none;
+}
+
+.pagesongs ul li img {
+    object-fit: fill;
+}
+
 .pagesongs ul li {
     list-style: none;
-    display: inline-block;
+    display: flex;
+    flex-wrap: column;
+    padding: 0 2px;
+}
+
+.pagesongs ul li img {
+    width: 50%;
+}  */
+
+.pagesongs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 300px;
+    margin: 150px;
+}
+
+.pagesongs h2 {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    justify-content: center;
+}
+
+.pagesongs ul {
+    display: flex;
+    justify-content: center;
+}
+
+.pagesongs ul li {
+    list-style: none;
+    padding: 2px;
+    width: 33%;
+}
+
+.pagesongs ul li a {
+    text-decoration: none;
+}
+
+.pagesongs ul li a img {
+    display: flex;
+    width: 100%;
 }
 
 /*Goods section*/
@@ -138,6 +222,7 @@
     flex-wrap: wrap;
     justify-content: center;
     padding-bottom: 300px;
+    margin: 150px;
 }
 
 .pagegoods h2 {
