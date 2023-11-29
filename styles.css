@@ -279,10 +279,25 @@
 /*profile.html*/
 /*===========================================================================================*/
 
-.profile-Aboutme{
+.profile-Aboutme {
     display: flex;
     margin: 0 15%;
     padding-top: 60px;
+}
+
+.profile-Aboutme h2 {
+    display: flex;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.profile-Aboutme h2::after {
+    content: '';
+    background: black;
+    position: absolute;  
+    right: 0px;
+    width: 100%;
+    height: 2px;
 }
 
 .profile-Aboutme a {
@@ -291,10 +306,15 @@
 }
 
 .profile-Aboutme a img{
-    max-width: 100%;
+    width: 100%;
     margin-bottom: 60px;
 }
 
 .profile-Media {
     margin: 0 15%;
+}
+
+.profile-Media iframe {
+    aspect-ratio: 16/9;
+    margin-bottom: 150px;
 }
