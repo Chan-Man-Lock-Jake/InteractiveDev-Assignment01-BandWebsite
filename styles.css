@@ -279,6 +279,22 @@
 /*profile.html*/
 /*===========================================================================================*/
 
-.profile-poo{
-    height: 1000px
+.profile-Aboutme{
+    display: flex;
+    margin: 0 15%;
+    padding-top: 60px;
+}
+
+.profile-Aboutme a {
+    margin-bottom: 60px;
+    font-size: x-large;
+}
+
+.profile-Aboutme a img{
+    max-width: 100%;
+    margin-bottom: 60px;
+}
+
+.profile-Media {
+    margin: 0 15%;
 }
