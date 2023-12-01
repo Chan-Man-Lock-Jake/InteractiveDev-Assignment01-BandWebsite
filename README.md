@@ -15,14 +15,13 @@ This website consists of 4 pages. The Homepage, about page, music and store. Eac
 ### Features Left to Implement
 - InView animations
 - A sign in page along with a login in reward to earn points for merchandise
+- A working shopping cart and buy page
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
+Visual Studio Code - https://code.visualstudio.com/
+CSS, HTML, JavaScript libraries on Visual Studio Code by Microsoft
+AdobeXD - https://helpx.adobe.com/xd
 
 ## Testing
 
