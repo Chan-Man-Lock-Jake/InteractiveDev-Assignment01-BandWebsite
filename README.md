@@ -1,8 +1,6 @@
 # InteractiveDev-Assignment01-BandWebsite
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
-
-Essentially, this part is your sales pitch.
+This is a website of an artist. This website has been improved to be more refined and simplified to enhance user experience. This website aims to give fans of this artist a closer look into the artist and his personality. It provides fans with more information about their favourite artists, such as their socials, update on the latest music videos, the artist's life updates as well as merchandise. This gives fans a closer connection and support their favourite artist.
  
 ## Design Process
  
