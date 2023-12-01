@@ -328,7 +328,7 @@
 
 .product-box {
     position: relative;
-    z-index: -1;
+    z-index: 0;
 }
 
 .product-box:hover {
@@ -355,6 +355,7 @@
     right: 0;
     cursor: pointer;
     background-color: white;
+    z-index: 90;
 }
 
 .goodbye {
@@ -377,6 +378,7 @@
 
 .cart {
     position: fixed;
+    opacity: 0;
     bottom: 0;
     right: 0;
     width: 360px;
@@ -413,3 +415,52 @@
     height: 5px;
     width: 5px;
 }
+
+/*music.html*/
+/*===========================================================================================*/
+
+.music-intro {
+    padding: 61.5px 0;
+    margin: 0 15%;
+}
+
+.music-intro iframe {
+    aspect-ratio: 16/9;
+    margin-bottom: 150px;
+}
+
+
+/*Music displays*/
+.musicpage ul {
+    display: grid;
+    grid-template-columns: 23.5% 23.5% 23.5% 23.5%;
+    margin: 0 15%;
+    gap: 2%;
+}
+
+
+
+.musicpage ul li {
+    list-style: none;
+}
+
+.musicpage ul li a{
+    text-transform: uppercase;
+    color: black;
+}
+
+.product-box {
+    position: relative;
+    z-index: 0;
+}
+
+.product-box:hover {
+    border: 2px solid white;
+    padding: 5px;
+}
+
+.product-box img {
+    width: 100%;
+    height: auto;
+}
+
