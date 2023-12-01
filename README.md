@@ -41,12 +41,21 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Credits
 
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- Website content, https://dreamperfectregime.com/
+- Spotify BIO, https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe
+- Wikipedia, https://en.wikipedia.org/wiki/DPR_Ian
 
-### Media
-- The photos used in this site were obtained from ...
+### Content & Media
+
+- Video were obtained from Dream Perfect Regime on Youtube https://www.youtube.com/channel/UCtG5oKSlksz-QmD_2uI4WBw and HYPERNEWS UPDATE https://www.youtube.com/watch?v=88V5zp8wqI0
+- Photos that were obtained from pinterest, https://www.pinterest.com/pin/841399142906094650/
+- Photos that were obtained from google, 
+https://i.scdn.co/image/ab67616d0000b273b7fd1b534c02e2426b63b345
+https://i.scdn.co/image/ab67616d00001e028ac536a8b7cdb157509399a7
+https://i.scdn.co/image/ab67616d0000b27335028642fcc7d80a4e96f31b
+https://images.squarespace-cdn.com/content/56eb012f27d4bd29de975fae/1627231681293-JX8BLWNAGTERKBM8N0VB/NR_DPRLIVE_Header.jpg?format=1500w&content-type=image%2Fjpeg
+- google fonts, https://fonts.google.com/specimen/Sofia+Sans+Semi+Condensed#styles
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from the YOASOBI website
