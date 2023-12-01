@@ -128,33 +128,12 @@
     font-size: 500%;
 }
 
-/*News and Media section*/
-
-.pagenewsmedia {
+.latest-release {
     display: flex;
-    margin: 0 150px;
-    padding-bottom: 100px;
-}
-
-.pagenewsmedia h2 {
-    width: 100%;
-    height: 50px;
-}
-
-.pagenewsmedia ul li {
-    list-style: none;
-}
-
-.pagenews {
-    display: flex;
-    flex-wrap: wrap;
-    width: 50%;
-    margin-right: 25px;
-}
-
-.pagemedia {
-   width: 50%;
-   margin-left: 25px;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 40px;
+    padding-bottom: 5%;
 }
 
 /*Songs section*/
@@ -163,8 +142,8 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding-bottom: 300px;
-    margin: 10%;
+    padding-bottom: 100px;
+    margin: 0 10% 0 10%;
 }
 
 .pagesongs h2 {
@@ -208,6 +187,10 @@
     width: 33%;
 }
 
+.pagesongs ul li:hover {
+    padding: 0 5px;
+}
+
 .pagesongs ul li a {
     text-decoration: none;
     font-weight: 400;
@@ -226,9 +209,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    padding-top: 30px;
-    padding-bottom: 100px;
-    margin: 0 110px;
+    padding: 30px 110px 100px;
     color: white;
     background-image: url(Photos/BlackHomepagebg.jpeg);
     background-repeat: no-repeat;
@@ -256,7 +237,7 @@
 .pagegoods ul {
     display: flex;
     justify-content: center;
-    padding: 0 10px 200px 10px;
+    padding: 0 10px 100px 10px;
 }
 
 .pagegoods ul li {
@@ -317,4 +298,68 @@
 .profile-Media iframe {
     aspect-ratio: 16/9;
     margin-bottom: 150px;
+}
+
+/*store.html*/
+/*===========================================================================================*/
+
+.product-image {
+    display: flex;
+    margin: 0 15%;
+}
+
+.product-image a h2 {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.product-image a img {
+    margin-top: 61.5px;
+    width: 100%;
+}
+
+.product-page {
+    display: grid;
+    grid-template-columns: 23.5% 23.5% 23.5% 23.5%;
+    margin: 0 15%;
+    gap: 2%;
+}
+
+.product-box {
+    position: relative;
+}
+
+.product-box:hover {
+    border: 2px solid white;
+    padding: 5px;
+}
+
+.product-box img {
+    width: 100%;
+    height: auto;
+}
+
+.addtocart {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    cursor: pointer;
+    background-color: white;
+}
+
+.goodbye {
+    margin: 0 15%;
+}
+
+.goodbye a {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    margin: 50px;
+}
+
+.goodbye iframe {
+    aspect-ratio: 16/9;
+    margin-top: 50px;
 }
