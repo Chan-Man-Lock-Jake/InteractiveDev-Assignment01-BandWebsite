@@ -3,28 +3,18 @@
 This is a website of an artist. This website has been improved to be more refined and simplified to enhance user experience. This website aims to give fans of this artist a closer look into the artist and his personality. It provides fans with more information about their favourite artists, such as their socials, update on the latest music videos, the artist's life updates as well as merchandise. This gives fans a closer connection and support their favourite artist.
  
 ## Design Process
- 
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+While designing this website, I considered important factors such as user experience, user design, website functions. The factor that I chose to focus on the most is building a good user experience. The goal was to make users feel welcomed and engaged while using the website to not only improve their experience but to strengthn the fanbase. 
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
-These files should themselves either be included as a pdf file in the project itself (in an separate directory)
-Include the Adobe XD wireframe as a folder. You can include the XD share url. 
+In order to achieve this goal, I used simple colors that fit the artist and his theme while maintaining a tidy webpage. I made use of transitions to make the website feel more responsive and less jittery. The menus are also ordered and structured in a way that makes navigating around the website intuitive and easy. The use of playable videos also made the website more engaging as users can get a taste of the artist's videos without having to open a new tab. These are some things I considered and implemented to cater this website to fans of this artist. 
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+This website consists of 4 pages. The Homepage, about page, music and store. Each section displays relevant information relted to the page header.
 
 ### Features Left to Implement
-- Another feature idea
+- InView animations
+- A sign in page along with a login in reward to earn points for merchandise
 
 ## Technologies Used
 
