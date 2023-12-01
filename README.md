@@ -1,40 +1,27 @@
 # InteractiveDev-Assignment01-BandWebsite
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
-
-Essentially, this part is your sales pitch.
+This is a website of an artist. This website has been improved to be more refined and simplified to enhance user experience. This website aims to give fans of this artist a closer look into the artist and his personality. It provides fans with more information about their favourite artists, such as their socials, update on the latest music videos, the artist's life updates as well as merchandise. This gives fans a closer connection and support their favourite artist.
  
 ## Design Process
- 
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+While designing this website, I considered important factors such as user experience, user design, website functions. The factor that I chose to focus on the most is building a good user experience. The goal was to make users feel welcomed and engaged while using the website to not only improve their experience but to strengthn the fanbase. 
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
-These files should themselves either be included as a pdf file in the project itself (in an separate directory)
-Include the Adobe XD wireframe as a folder. You can include the XD share url. 
+In order to achieve this goal, I used simple colors that fit the artist and his theme while maintaining a tidy webpage. I made use of transitions to make the website feel more responsive and less jittery. The menus are also ordered and structured in a way that makes navigating around the website intuitive and easy. The use of playable videos also made the website more engaging as users can get a taste of the artist's videos without having to open a new tab. These are some things I considered and implemented to cater this website to fans of this artist. 
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+This website consists of 4 pages. The Homepage, about page, music and store. Each section displays relevant information relted to the page header.
 
 ### Features Left to Implement
-- Another feature idea
+- InView animations
+- A sign in page along with a login in reward to earn points for merchandise
+- A working shopping cart and buy page
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
+Visual Studio Code - https://code.visualstudio.com/
+CSS, HTML, JavaScript libraries on Visual Studio Code by Microsoft
+AdobeXD - https://helpx.adobe.com/xd
 
 ## Testing
 
@@ -54,12 +41,21 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Credits
 
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- Website content, https://dreamperfectregime.com/
+- Spotify BIO, https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe
+- Wikipedia, https://en.wikipedia.org/wiki/DPR_Ian
 
-### Media
-- The photos used in this site were obtained from ...
+### Content & Media
+
+- Video were obtained from Dream Perfect Regime on Youtube https://www.youtube.com/channel/UCtG5oKSlksz-QmD_2uI4WBw and HYPERNEWS UPDATE https://www.youtube.com/watch?v=88V5zp8wqI0
+- Photos that were obtained from pinterest, https://www.pinterest.com/pin/841399142906094650/
+- Photos that were obtained from google, 
+https://i.scdn.co/image/ab67616d0000b273b7fd1b534c02e2426b63b345
+https://i.scdn.co/image/ab67616d00001e028ac536a8b7cdb157509399a7
+https://i.scdn.co/image/ab67616d0000b27335028642fcc7d80a4e96f31b
+https://images.squarespace-cdn.com/content/56eb012f27d4bd29de975fae/1627231681293-JX8BLWNAGTERKBM8N0VB/NR_DPRLIVE_Header.jpg?format=1500w&content-type=image%2Fjpeg
+- google fonts, https://fonts.google.com/specimen/Sofia+Sans+Semi+Condensed#styles
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from the YOASOBI website
